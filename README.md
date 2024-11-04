@@ -1,5 +1,4 @@
-- I’m SHUKRA
-- asur
+
   
 
 <!---
